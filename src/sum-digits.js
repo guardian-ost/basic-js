@@ -23,7 +23,7 @@ function getSumOfDigits(n) {
       .reduce((prev, next) => prev+=next));
 
 }
-console.log(getSumOfDigits(100));
+
 
 module.exports = {
   getSumOfDigits
